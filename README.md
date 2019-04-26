@@ -1,4 +1,4 @@
-Facilitates quick extract for commonly used code snippets on my freelancing sites. Feel free to use in your project but you may be left with demystifying the logic behind some of snippets cos of their dependent nature on other modules. 
+Facilitates quick extract for commonly used code snippets on my freelancing site https://eslintpurity.com.ng. Feel free to use in your project but you may be left with demystifying the logic behind some of snippets cos of their dependent nature on other modules. 
 
 ### Blog Intro
 
